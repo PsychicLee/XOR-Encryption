@@ -1,0 +1,14 @@
+{
+  "name": "xor-encryption",
+  "version": "1.0.0",
+  "description": "异或加密的 JavaScript 实现",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "PsychicLee",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^7.3.3"
+  }
+}
